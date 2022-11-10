@@ -1,0 +1,29 @@
+.EmailInput{
+    width: 10;
+    height: 35px;
+    border-radius: 10px;
+
+}
+.btn{
+    height: 35px;
+    margin-left: 10PX;
+    font-size: 9px;
+    font-weight: 549;
+}
+.fuck{
+    margin-top: 15%;
+    margin-left: 5%;
+    width: auto;
+    height: auto;
+}
+.hehe{
+    font-size: 48px;
+    color: white;
+    width: 25%;
+}
+.hh{
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+    width: 20%;
+}
