@@ -1,0 +1,28 @@
+h1{
+    font-weight: bold;
+    font-size: 42px;
+}
+.contactCont{
+    height: 30vh;
+    width: 100%;
+    background-color: #252B3B;
+}
+
+.reviewCont{
+    display: flex;
+    overflow: hidden;
+    flex-direction: row;
+    justify-content: start;
+}
+.btnCont{
+    display: flex;
+    justify-content: end;
+}
+.text{
+    margin-top: 10%;
+    font-size: 18px;
+    font-weight: 400;
+}
+.names{
+    margin-top: auto;
+}

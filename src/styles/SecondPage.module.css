@@ -1,0 +1,30 @@
+
+.idgaf{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    height: auto;
+}
+.fuckme{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.hhe{
+    width: 100%;
+    height: 70%;
+}
+/* @media only screen and (max-width: 768px) {
+    .idgaf{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .idk{
+        height: 20%;
+        width: 100%;
+    }
+} */

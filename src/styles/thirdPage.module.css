@@ -1,0 +1,16 @@
+.idgaf{
+    display: flex;
+    justify-content: space-between;
+}
+.fuckme{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.response{
+    width: 100%;
+    height: auto;
+}
